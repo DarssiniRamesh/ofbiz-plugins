@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 # Python ignorables
 logs/
@@ -62,3 +63,10 @@ core.*
 *.log
 post_process_status.lock
 core
+=======
+.DS_Store
+bin/
+node_modules/
+
+logs/
+>>>>>>> Stashed changes

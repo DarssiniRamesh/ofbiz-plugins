@@ -3658,3 +3658,160 @@
 2026-02-17 16:34:49,479 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
 2026-02-17 16:34:49,559 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
 2026-02-17 16:34:49,635 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:49,720 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:49,817 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:49,921 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:49,999 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,083 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,184 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,294 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,394 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,476 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,559 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,649 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,741 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,833 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:50,952 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:51,045 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:51,132 - Knowledge - INFO -    Call time: avg=20.032s, max=53.510s, total=3445.4s
+2026-02-17 16:34:51,249 - Knowledge - INFO - 
+2026-02-17 16:34:51,338 - Knowledge - INFO - 
+2026-02-17 16:34:51,410 - Knowledge - INFO - 
+2026-02-17 16:34:51,530 - Knowledge - INFO - 
+2026-02-17 16:34:51,623 - Knowledge - INFO - 
+2026-02-17 16:34:51,753 - Knowledge - INFO - 
+2026-02-17 16:34:51,833 - Knowledge - INFO - 
+2026-02-17 16:34:51,937 - Knowledge - INFO - 
+2026-02-17 16:34:52,027 - Knowledge - INFO - 
+2026-02-17 16:34:52,145 - Knowledge - INFO - 
+2026-02-17 16:34:52,236 - Knowledge - INFO - 
+2026-02-17 16:34:52,350 - Knowledge - INFO - 
+2026-02-17 16:34:53,020 - Knowledge - INFO - 
+2026-02-17 16:34:53,118 - Knowledge - INFO - 
+2026-02-17 16:34:53,210 - Knowledge - INFO - 
+2026-02-17 16:34:53,330 - Knowledge - INFO - 
+2026-02-17 16:34:53,417 - Knowledge - INFO - 
+2026-02-17 16:34:53,526 - Knowledge - INFO - 
+2026-02-17 16:34:53,621 - Knowledge - INFO - 
+2026-02-17 16:34:53,703 - Knowledge - INFO - 
+2026-02-17 16:34:53,837 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:53,920 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,057 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,163 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,267 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,377 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,463 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,549 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,647 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,768 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,855 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:54,934 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,014 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,101 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,197 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,288 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,404 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,481 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,571 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,658 - Knowledge - INFO - 💾 I/O Metrics:
+2026-02-17 16:34:55,774 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:55,865 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:55,951 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,042 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,157 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,252 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,360 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,432 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,522 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,607 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,683 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,808 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,881 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:56,996 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:57,088 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:57,166 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:57,280 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:57,356 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:57,465 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:57,553 - Knowledge - INFO -    File I/O: avg=0.001s, total=1.0s
+2026-02-17 16:34:57,645 - Knowledge - INFO - 
+2026-02-17 16:34:57,721 - Knowledge - INFO - 
+2026-02-17 16:34:57,787 - Knowledge - INFO - 
+2026-02-17 16:34:57,908 - Knowledge - INFO - 
+2026-02-17 16:34:58,029 - Knowledge - INFO - 
+2026-02-17 16:34:58,111 - Knowledge - INFO - 
+2026-02-17 16:34:58,221 - Knowledge - INFO - 
+2026-02-17 16:34:58,314 - Knowledge - INFO - 
+2026-02-17 16:34:58,388 - Knowledge - INFO - 
+2026-02-17 16:34:58,493 - Knowledge - INFO - 
+2026-02-17 16:34:58,575 - Knowledge - INFO - 
+2026-02-17 16:34:58,683 - Knowledge - INFO - 
+2026-02-17 16:34:58,790 - Knowledge - INFO - 
+2026-02-17 16:34:58,898 - Knowledge - INFO - 
+2026-02-17 16:34:59,011 - Knowledge - INFO - 
+2026-02-17 16:34:59,122 - Knowledge - INFO - 
+2026-02-17 16:34:59,252 - Knowledge - INFO - 
+2026-02-17 16:34:59,334 - Knowledge - INFO - 
+2026-02-17 16:34:59,416 - Knowledge - INFO - 
+2026-02-17 16:34:59,502 - Knowledge - INFO - 
+2026-02-17 16:34:59,589 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:34:59,698 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:34:59,781 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:34:59,909 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:34:59,989 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,084 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,174 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,265 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,393 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,522 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,629 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,712 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,802 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,896 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:00,995 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:01,102 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:01,188 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:01,279 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:01,379 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:01,487 - Knowledge - INFO - 🔄 Batch Processing:
+2026-02-17 16:35:01,589 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:01,701 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:01,793 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:01,922 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:02,006 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:02,095 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:02,191 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:02,267 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:02,369 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:02,460 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:02,885 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,002 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,158 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,243 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,339 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,430 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,529 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,620 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,704 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,785 - Knowledge - INFO -    Batches: 120, avg_time=10.87s, avg_throughput=339.79 files/sec
+2026-02-17 16:35:03,931 - Knowledge - INFO - 
+2026-02-17 16:35:04,019 - Knowledge - INFO - 
+2026-02-17 16:35:04,126 - Knowledge - INFO - 
+2026-02-17 16:35:04,248 - Knowledge - INFO - 
+2026-02-17 16:35:04,345 - Knowledge - INFO - 
+2026-02-17 16:35:04,423 - Knowledge - INFO - 
+2026-02-17 16:35:04,541 - Knowledge - INFO - 
+2026-02-17 16:35:04,632 - Knowledge - INFO - 
+2026-02-17 16:35:04,769 - Knowledge - INFO - 
+2026-02-17 16:35:04,861 - Knowledge - INFO - 
+2026-02-17 16:35:04,939 - Knowledge - INFO - 
+2026-02-17 16:35:05,018 - Knowledge - INFO - 
+2026-02-17 16:35:05,092 - Knowledge - INFO - 
+2026-02-17 16:35:05,199 - Knowledge - INFO - 
+2026-02-17 16:35:05,286 - Knowledge - INFO - 
+2026-02-17 16:35:05,385 - Knowledge - INFO - 
+2026-02-17 16:35:05,466 - Knowledge - INFO - 
+2026-02-17 16:35:05,577 - Knowledge - INFO - 
+2026-02-17 16:35:05,667 - Knowledge - INFO - 
+2026-02-17 16:35:05,745 - Knowledge - INFO - 
+2026-02-17 16:35:05,846 - Knowledge - INFO - 👷 Worker Utilization:
