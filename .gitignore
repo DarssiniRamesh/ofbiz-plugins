@@ -69,4 +69,7 @@ bin/
 node_modules/
 
 logs/
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
